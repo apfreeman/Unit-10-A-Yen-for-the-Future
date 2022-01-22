@@ -58,4 +58,4 @@ Below is the summary of my findings.
     * No I wouldnt be confident trading with these models. Both the ARMA and ARIMA models where not a good fit for this data as evident from the p-values. The GARCH model was a better fit for the data, with the results showing us there would be an increase in volatility. I would not be confident trading on volatility predictions alone. 
 
 4. Does this model perform better or worse on out-of-sample data as compared to in-sample data?
-    * In general, a lower RMSE is better than a higher one. In conclusion the "out of sample" Test Data performed better then the "In Sample" Training Data. The difference between the two are Test Data (out of sample) RMSE = 0.6445820942663303 vs Training Data (in sample) MSE =  0.8418722775348019
+    * In general, a lower RMSE is better than a higher one. In conclusion the "out of sample" Test Data performed better then the "In Sample" Training Data. The difference between the two are Test Data (out of sample) RMSE = 0.6445805658569028 vs Training Data (in sample) MSE =  0.841994632894117
